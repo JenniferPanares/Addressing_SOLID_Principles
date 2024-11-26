@@ -1,4 +1,4 @@
-package Violated.SRP.com.solid.srp.violated;
+package Violated.SRP;
 
 public class BookManager
 {

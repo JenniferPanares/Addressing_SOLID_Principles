@@ -1,4 +1,4 @@
-package Solved.SRP.com.solid.srp.solved;
+package Solved.SRP;
 
 public class BookManager
 {

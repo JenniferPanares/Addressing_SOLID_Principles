@@ -1,3 +1,5 @@
+package Violated.OCP;
+
 public class DiscountCalculator
 {
     public double CalculateDiscount(string userType)
