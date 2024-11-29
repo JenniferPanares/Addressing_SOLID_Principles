@@ -1,4 +1,4 @@
-package Solved.OCP.com.solid.ocp.solved;
+package Solved.OCP
 
 public interface IDiscount
 {
