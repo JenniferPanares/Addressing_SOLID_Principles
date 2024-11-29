@@ -1,4 +1,4 @@
-package Solved.LSP.com.solid.lsp.solved;
+package Solved.LSP
 
 public abstract class Shape
 {
