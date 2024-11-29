@@ -1,4 +1,4 @@
-package Violated.LSP.com.solid.lsp.violated;
+package Violated.LSP
 
 public class Rectangle
 {
